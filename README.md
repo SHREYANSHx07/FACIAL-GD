@@ -1,7 +1,6 @@
 # FACIAL-GD
-IGSB implementation of GestaltMatcher as described in https://www.medrxiv.org/content/10.1101/2020.12.28.20248193v2. This repository is implemented by
-Institute for Genomic Statistics and Bioinformatics (IGSB) at the University of Bonn. In this repository, we included three
-critical parts, face cropper, model training, and evaluation. Due to the legal and copyright issue, the original photos for training and metadata are hosted in GestaltMatcher Database (https://gestaltmatcher.gene-talk.de/) with controlled access. Please get in touch with us to access the data.
+IGSB implementation of FACIAL-GD as described in https://www.medrxiv.org/content/10.1101/2020.12.28.20248193v2. In this repository, we included three
+critical parts, face cropper, model training, and evaluation. Due to the legal and copyright issue, the original photos for training and metadata are hosted in FACIAL-GD Database (https://gestaltmatcher.gene-talk.de/) with controlled access. Please get in touch with us to access the data.
 
 ## Environment
 
@@ -173,6 +172,7 @@ For the GMDB-frequent test set, using GMDB-frequent gallery + GMDB-rare gallery:
 |---|---|---|---|---|  
 | Enc-GMDB&emsp;&emsp;&emsp;&ensp;&nbsp;<br>ours | 8.47%&ensp;<br>8.28% | 18.33%<br>15.03% | 23.19%<br>20.21% | 37.62%<br>34.51% |  
 | Enc-healthy<br>ours | 7.10%<br>6.61% | 14.36%<br>13.33% | 19.34%<br>16.60% | 30.77%<br>28.13% |
+
 
 
 
